@@ -9,9 +9,9 @@ $ pip2 install mechanize
 
 $ pkg install python2
 
-$ git clone
+$ git clone https://www.github.com/nicoleus/sitorus
 
-$ cd 
+$ cd sitorus
 
 $ python2 mbf.py
 
