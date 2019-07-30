@@ -144,11 +144,11 @@ def nicoleus:
       edit_wordlist()
       sys.exit()    	    
 def life():
-	global nicoleus_password
+	global _password
 	password_nob = open(password_list, "r")
-	for nicoleus_password in password_nob:
-		password_nob = nicoleus_password.replace("\n","")
-		nicoleus  	
+	for _password in password_nob:
+		password_nob = _password.replace("\n","")
+		  	
 
 def runn_noobs():
          global password_list
