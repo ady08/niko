@@ -62,7 +62,7 @@ def banner():
 
 banner()
 
-print wd+"         https://www.github.com/nicoleus "
+print wd+"         https://www.github.com/nicoleus/sitorus "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
@@ -147,7 +147,7 @@ def life():
 	global _password
 	password_nob = open(password_list, "r")
 	for _password in password_nob:
-		password_nob = _password.replace("\n","")
+		_nob = _password.replace("\n","")
 		  	
 
 def runn_noobs():
