@@ -9,7 +9,7 @@ $ pip2 install mechanize
 
 $ pkg install python2
 
-$ git clone https://www.github.com/nicoleus/sitorus
+$ git clone https://www.github.com/bangnicoleus/bangsitorus
 
 $ cd sitorus
 
