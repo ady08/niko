@@ -9,7 +9,7 @@ $ pip2 install mechanize
 
 $ pkg install python2
 
-$ git clone https://www.github.com/bangHoras/bangLeus
+$ git clone https://www.github.com/bangHoras/bangLeus/Mbf
 
 $ cd bangHoras
 
